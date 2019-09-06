@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidX Lifecycle Sample</string>
+    <string name="details_empty_view">Nenhum post selecionado.</string>
+</resources>
